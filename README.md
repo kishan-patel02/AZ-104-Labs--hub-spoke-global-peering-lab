@@ -71,7 +71,7 @@ Successful ping tests confirmed:
 ✔ Spoke-DB → Hub  
 ✔ Hub → Spokes  
 
-Screenshots available in the /architecture/screenshots folder.
+Screenshots available in the /screenshots folder.
 
 ---
 
